@@ -40,3 +40,6 @@ node_modules/
 .env
 .env.*
 !.env.example
+
+# Local harness temporary files
+.dsh/
